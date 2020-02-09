@@ -47,6 +47,8 @@ http://192.168.1.1:4022/udp/239.77.1.149:5146
 http://192.168.1.1:4022/udp/239.77.1.152:5146
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://192.168.1.1:4022/udp/239.77.1.148:5146
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="卫视",广东珠江 
+http://192.168.1.1:4022/udp/239.77.0.114:5146
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",中国CGTN(英)
 http://192.168.1.1:4022/udp/239.77.1.27:5146
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",香港翡翠台
@@ -93,13 +95,11 @@ https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="海外",印尼CNN
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w657690154_b192000_sleng.m3u8
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="分类-综合",广东珠江 
-http://192.168.1.1:4022/udp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="分类-电影",电信IPTV CHC高清电影 2k25p 
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="分类-电影",电影 CHC高清电影
 http://192.168.1.1:4022/udp/239.77.0.27:5146
-#EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1581186276255&di=3ada5a95676e981fbc2fd9401fe33431&imgtype=0&src=http://cdn.unwire.hk/wp-content/uploads/2015/04/4klogo.png" group-title="分类-电影",4K电影 4k25p
-http://192.168.1.1:4022/udp/239.253.43.219:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=165948875%2C2369475768&fm=26&gp=0.jpg" group-title="分类-音乐",广东综艺 4k50p
-http://192.168.1.1:4022/udp/239.77.0.246:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=165948875%2C2369475768&fm=26&gp=0.jpg" group-title="分类-音乐",粤TV  4k25p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.chncup.com/uploads/image/20161004/1475565011877008966.jpg" group-title="分类-4K",4K25p 粤TV
 http://192.168.1.1:4022/udp/239.77.0.231:5146
+#EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3517203879,2786994931&fm=26&gp=0.jpg" group-title="分类-4K",4K25p 爱上4K
+http://192.168.1.1:4022/udp/239.253.43.219:5146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=165948875%2C2369475768&fm=26&gp=0.jpg" group-title="分类-4K",4K50p 广东综艺
+http://192.168.1.1:4022/udp/239.77.0.246:5146
